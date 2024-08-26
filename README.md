@@ -7,7 +7,7 @@
 
 ## Installation
 
-Install System Dependencies (macOS)
+Install System Dependencies (macOS using brew)
 
 ```bash
 brew install libmagic
