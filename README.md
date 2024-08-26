@@ -2,8 +2,10 @@
 
 ## Resources
 
-<https://docs.unstructured.io/open-source/installation/full-installation>
-<https://github.com/Unstructured-IO/unstructured>
+- [Official Documentation](https://docs.unstructured.io)
+- [Open Source Documentation](https://docs.unstructured.io/open-source/introduction/overview)
+- [Full-installation](https://docs.unstructured.io/open-source/installation/full-installation)
+- [Unstructured Repo](https://github.com/Unstructured-IO/unstructured)
 
 ## Installation
 
@@ -53,4 +55,4 @@ with open("output.json", "w") as file:
 
 ## Unstanding structured data
 
-<https://docs.unstructured.io/open-source/concepts/document-elements#element-type>
+[Document Element Types](https://docs.unstructured.io/open-source/concepts/document-elements#element-type)
